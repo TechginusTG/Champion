@@ -32,9 +32,23 @@
               "icon": "lucide-image",
               "title": "Pasted image 20251004021510"
             }
+          },
+          {
+            "id": "45161c02d1edaaaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시어하트어택/계획 기간을 한번 짜보자.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계획 기간을 한번 짜보자"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,14 +196,17 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "07b9321c29efca3a",
+  "active": "45161c02d1edaaaa",
   "lastOpenFiles": [
+    "사이비종교사이트/할로윈을 기념하여 작은 사이트를 만들어보자.md",
+    "시어하트어택/계획 기간을 한번 짜보자.md",
+    "잡사진/Pasted image 20251004021510.png",
+    "사이비종교사이트",
     "시어하트어택/재료들/배터리.md",
     "시어하트어택/기능.md",
     "시어하트어택/재료들/아세톤?.md",
     "시어하트어택/재료들/시바툴, 폴리머 클레이.md",
     "시어하트어택/재료들",
-    "잡사진/Pasted image 20251004021510.png",
     "잡사진",
     "잡사진/Pasted image 20251004014702.png",
     "환영합니다!.md",
